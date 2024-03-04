@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\georg\\OneDrive\\Desktop\\umbracoApp\\wwwroot\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive\\Desktop\\umbracoApp\\wwwroot\\assets\\img\\about-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive\\Desktop\\umbracoApp\\wwwroot\\assets\\img\\contact-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\contact-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive\\Desktop\\umbracoApp\\wwwroot\\assets\\img\\home-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive\\Desktop\\umbracoApp\\wwwroot\\assets\\img\\post-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\post-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive\\Desktop\\umbracoApp\\wwwroot\\assets\\img\\post-sample-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\post-sample-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive\\Desktop\\umbracoApp\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive\\Desktop\\umbracoApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\georg\\OneDrive\\Desktop\\umbracoApp\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.praktik_projekt.props",
+      "PackagePath": "build\\praktik_projekt.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.praktik_projekt.props",
+      "PackagePath": "buildMultiTargeting\\praktik_projekt.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.praktik_projekt.props",
+      "PackagePath": "buildTransitive\\praktik_projekt.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.praktik_projekt.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
